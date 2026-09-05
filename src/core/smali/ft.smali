@@ -1,0 +1,2 @@
+.class Lft;
+.super LeU;

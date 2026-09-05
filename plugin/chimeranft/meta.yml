@@ -1,0 +1,15 @@
+name: Chimera NFT
+description: '{description}'
+id: chimeranft
+version: 1.1.1
+author: '@xarmaq'
+app_version: '>=11.9.0'
+sdk_version: '>=1.4.4.6'
+icon: HappyHappyPepe/31
+elyxbuilder:
+  compiled: true
+  buildNum: 5
+  buildDate: '2026-08-16'
+  pythonVer: '3.11'
+  sourceHash: c412e918aac3a734b9f7f18e10b7e099fcb91e7bfa5a82bc9fd30f488e0cefab
+  elybVer: 0.6.3.4

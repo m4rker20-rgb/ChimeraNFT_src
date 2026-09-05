@@ -1,0 +1,2 @@
+.class Lfu;
+.super Lft;

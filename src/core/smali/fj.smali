@@ -1,0 +1,2 @@
+.class Lfj;
+.super LeU;
