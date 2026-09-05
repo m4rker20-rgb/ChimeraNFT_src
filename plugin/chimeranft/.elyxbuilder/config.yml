@@ -1,0 +1,16 @@
+zipFormat: eaf
+source: chimeranft/src
+buildNameUncompiled: '{name}-{version}'
+buildNameCompiled: '{name}-{version}-3.11'
+ignoreAll:
+- chimeranft/.elyxbuilder/cache/*
+compilationIgnore:
+- chimeranft/src/loader.py
+obfuscationConfig:
+  stripDocstrings: true
+  removeLogs: true
+  renameLocals: true
+  encodeStrings: true
+  encodeNumbers: true
+  zlibCompression: false
+  saveMapping: true
