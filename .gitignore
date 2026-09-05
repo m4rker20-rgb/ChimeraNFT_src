@@ -1,0 +1,4 @@
+# ElyxBuilder build artifacts
+plugin/builds/
+plugin/chimeranft/.elyxbuilder/stats.yml
+plugin/chimeranft/.elyxbuilder/cache/
